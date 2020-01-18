@@ -32,3 +32,24 @@ Note that you have to either copy the libraries to /usr/lib64 OR set the follow
 ```
 export "LD_LIBRARY_PATH=/usr/lib64:/host/spatialite"
 ```
+
+### Load data and run a query
+
+Finally, we load some data and run a query.
+
+You can download OpenStreetMap data from here:http://download.geofabrik.de/north-america.html
+
+Once you pull down the data in PBF format, you can convert it to Spatialite format as follows:
+
+```
+ogr2ogr -f "SQLite" -dsco SPATIALITE=YES newjersey.spatialite new-jersey-latest.osm.pbf
+```
+
+Then within the container/lambda function, run the following:
+
+```
+sqlite3 /host/newjersey.spatialite
+# sqlite> .load libspatialite.so.5
+# sqlite> select spatialite_version();
+# sqlite> SELECT *, ST_Distance(Geometry, ST_Point(-74.3708559,40.5720139), 0) AS meters FROM points WHERE meters < 1000 AND other_tags IS NOT NULL;
+```
