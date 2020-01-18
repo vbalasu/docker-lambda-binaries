@@ -1,0 +1,758 @@
+expert1-2.1... Ok
+expert1-2.2... Ok
+expert1-2.3... Ok
+expert1-2.4... Ok
+expert1-2.5... Ok
+expert1-2.7... Ok
+expert1-2.8.1... Ok
+expert1-2.8.2... Ok
+expert1-2.9.1... Ok
+expert1-2.9.2... Ok
+expert1-2.10.1... Ok
+expert1-2.10.2... Ok
+expert1-2.11.1... Ok
+expert1-2.12.1... Ok
+expert1-2.13.1... Ok
+expert1-2.13.2... Ok
+expert1-2.13.3... Ok
+expert1-2.14... Ok
+expert1-2.15... Ok
+expert1-2.16... Ok
+expert1-3.1... Ok
+expert1-3.2... Ok
+expert1-3.3... Ok
+expert1-3.4... Ok
+expert1-3.5... Ok
+expert1-3.7... Ok
+expert1-3.8.1... Ok
+expert1-3.8.2... Ok
+expert1-3.9.1... Ok
+expert1-3.9.2... Ok
+expert1-3.10.1... Ok
+expert1-3.10.2... Ok
+expert1-3.11.1... Ok
+expert1-3.12.1... Ok
+expert1-3.13.1... Ok
+expert1-3.13.2... Ok
+expert1-3.13.3... Ok
+expert1-3.14... Ok
+expert1-3.15... Ok
+expert1-3.16... Ok
+expert1-4.0... Ok
+expert1-4.1... Ok
+expert1-4.2... Ok
+expert1-4.3... Ok
+expert1.test-closeallfiles... Ok
+expert1.test-sharedcachesetting... Ok
+Time: expert1.test 1634 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5aa.test-closeallfiles... Ok
+fts5aa.test-sharedcachesetting... Ok
+Time: fts5aa.test 57 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ab.test-closeallfiles... Ok
+fts5ab.test-sharedcachesetting... Ok
+Time: fts5ab.test 66 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ac.test-closeallfiles... Ok
+fts5ac.test-sharedcachesetting... Ok
+Time: fts5ac.test 58 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ad.test-closeallfiles... Ok
+fts5ad.test-sharedcachesetting... Ok
+Time: fts5ad.test 73 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ae.test-closeallfiles... Ok
+fts5ae.test-sharedcachesetting... Ok
+Time: fts5ae.test 65 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5af.test-closeallfiles... Ok
+fts5af.test-sharedcachesetting... Ok
+Time: fts5af.test 100 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ag.test-closeallfiles... Ok
+fts5ag.test-sharedcachesetting... Ok
+Time: fts5ag.test 127 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ah.test-closeallfiles... Ok
+fts5ah.test-sharedcachesetting... Ok
+Time: fts5ah.test 105 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ai.test-closeallfiles... Ok
+fts5ai.test-sharedcachesetting... Ok
+Time: fts5ai.test 113 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ak.test-closeallfiles... Ok
+fts5ak.test-sharedcachesetting... Ok
+Time: fts5ak.test 84 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5al.test-closeallfiles... Ok
+fts5al.test-sharedcachesetting... Ok
+Time: fts5al.test 89 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5alter.test-closeallfiles... Ok
+fts5alter.test-sharedcachesetting... Ok
+Time: fts5alter.test 86 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5auto.test-closeallfiles... Ok
+fts5auto.test-sharedcachesetting... Ok
+Time: fts5auto.test 80 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5aux.test-closeallfiles... Ok
+fts5aux.test-sharedcachesetting... Ok
+Time: fts5aux.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5auxdata.test-closeallfiles... Ok
+fts5auxdata.test-sharedcachesetting... Ok
+Time: fts5auxdata.test 59 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5cat.test-closeallfiles... Ok
+fts5cat.test-sharedcachesetting... Ok
+Time: fts5cat.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5circref.test-closeallfiles... Ok
+fts5circref.test-sharedcachesetting... Ok
+Time: fts5circref.test 96 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5colset.test-closeallfiles... Ok
+fts5colset.test-sharedcachesetting... Ok
+Time: fts5colset.test 60 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5columnsize.test-closeallfiles... Ok
+fts5columnsize.test-sharedcachesetting... Ok
+Time: fts5columnsize.test 68 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5config.test-closeallfiles... Ok
+fts5config.test-sharedcachesetting... Ok
+Time: fts5config.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5conflict.test-closeallfiles... Ok
+fts5conflict.test-sharedcachesetting... Ok
+Time: fts5conflict.test 71 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5connect.test-closeallfiles... Ok
+fts5connect.test-sharedcachesetting... Ok
+Time: fts5connect.test 60 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5content.test-closeallfiles... Ok
+fts5content.test-sharedcachesetting... Ok
+Time: fts5content.test 67 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5delete.test-closeallfiles... Ok
+fts5delete.test-sharedcachesetting... Ok
+Time: fts5delete.test 57 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5detail.test-closeallfiles... Ok
+fts5detail.test-sharedcachesetting... Ok
+Time: fts5detail.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5determin.test-closeallfiles... Ok
+fts5determin.test-sharedcachesetting... Ok
+Time: fts5determin.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5dlidx.test-closeallfiles... Ok
+fts5dlidx.test-sharedcachesetting... Ok
+Time: fts5dlidx.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5doclist.test-closeallfiles... Ok
+fts5doclist.test-sharedcachesetting... Ok
+Time: fts5doclist.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5ea.test-closeallfiles... Ok
+fts5ea.test-sharedcachesetting... Ok
+Time: fts5ea.test 62 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5eb.test-closeallfiles... Ok
+fts5eb.test-sharedcachesetting... Ok
+Time: fts5eb.test 62 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5first.test-closeallfiles... Ok
+fts5first.test-sharedcachesetting... Ok
+Time: fts5first.test 77 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5full.test-closeallfiles... Ok
+fts5full.test-sharedcachesetting... Ok
+Time: fts5full.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5fuzz1.test-closeallfiles... Ok
+fts5fuzz1.test-sharedcachesetting... Ok
+Time: fts5fuzz1.test 65 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5hash.test-closeallfiles... Ok
+fts5hash.test-sharedcachesetting... Ok
+Time: fts5hash.test 66 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5integrity.test-closeallfiles... Ok
+fts5integrity.test-sharedcachesetting... Ok
+Time: fts5integrity.test 67 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5interrupt.test-closeallfiles... Ok
+fts5interrupt.test-sharedcachesetting... Ok
+Time: fts5interrupt.test 89 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5lastrowid.test-closeallfiles... Ok
+fts5lastrowid.test-sharedcachesetting... Ok
+Time: fts5lastrowid.test 73 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5leftjoin.test-closeallfiles... Ok
+fts5leftjoin.test-sharedcachesetting... Ok
+Time: fts5leftjoin.test 66 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5matchinfo.test-closeallfiles... Ok
+fts5matchinfo.test-sharedcachesetting... Ok
+Time: fts5matchinfo.test 67 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5merge.test-closeallfiles... Ok
+fts5merge.test-sharedcachesetting... Ok
+Time: fts5merge.test 63 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5merge2.test-closeallfiles... Ok
+fts5merge2.test-sharedcachesetting... Ok
+Time: fts5merge2.test 68 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5misc.test-closeallfiles... Ok
+fts5misc.test-sharedcachesetting... Ok
+Time: fts5misc.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5multi.test-closeallfiles... Ok
+fts5multi.test-sharedcachesetting... Ok
+Time: fts5multi.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5multiclient.test-closeallfiles... Ok
+fts5multiclient.test-sharedcachesetting... Ok
+Time: fts5multiclient.test 82 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5near.test-closeallfiles... Ok
+fts5near.test-sharedcachesetting... Ok
+Time: fts5near.test 71 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5onepass.test-closeallfiles... Ok
+fts5onepass.test-sharedcachesetting... Ok
+Time: fts5onepass.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5optimize.test-closeallfiles... Ok
+fts5optimize.test-sharedcachesetting... Ok
+Time: fts5optimize.test 83 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5phrase.test-closeallfiles... Ok
+fts5phrase.test-sharedcachesetting... Ok
+Time: fts5phrase.test 99 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5plan.test-closeallfiles... Ok
+fts5plan.test-sharedcachesetting... Ok
+Time: fts5plan.test 72 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5porter.test-closeallfiles... Ok
+fts5porter.test-sharedcachesetting... Ok
+Time: fts5porter.test 85 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5porter2.test-closeallfiles... Ok
+fts5porter2.test-sharedcachesetting... Ok
+Time: fts5porter2.test 83 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5prefix.test-closeallfiles... Ok
+fts5prefix.test-sharedcachesetting... Ok
+Time: fts5prefix.test 76 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5query.test-closeallfiles... Ok
+fts5query.test-sharedcachesetting... Ok
+Time: fts5query.test 77 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5rank.test-closeallfiles... Ok
+fts5rank.test-sharedcachesetting... Ok
+Time: fts5rank.test 86 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5rebuild.test-closeallfiles... Ok
+fts5rebuild.test-sharedcachesetting... Ok
+Time: fts5rebuild.test 102 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5restart.test-closeallfiles... Ok
+fts5restart.test-sharedcachesetting... Ok
+Time: fts5restart.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5rowid.test-closeallfiles... Ok
+fts5rowid.test-sharedcachesetting... Ok
+Time: fts5rowid.test 60 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5savepoint.test-closeallfiles... Ok
+fts5savepoint.test-sharedcachesetting... Ok
+Time: fts5savepoint.test 68 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5simple.test-closeallfiles... Ok
+fts5simple.test-sharedcachesetting... Ok
+Time: fts5simple.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5simple2.test-closeallfiles... Ok
+fts5simple2.test-sharedcachesetting... Ok
+Time: fts5simple2.test 85 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5simple3.test-closeallfiles... Ok
+fts5simple3.test-sharedcachesetting... Ok
+Time: fts5simple3.test 76 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5synonym.test-closeallfiles... Ok
+fts5synonym.test-sharedcachesetting... Ok
+Time: fts5synonym.test 64 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5synonym2.test-closeallfiles... Ok
+fts5synonym2.test-sharedcachesetting... Ok
+Time: fts5synonym2.test 81 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5tok1.test-closeallfiles... Ok
+fts5tok1.test-sharedcachesetting... Ok
+Time: fts5tok1.test 86 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5tok2.test-closeallfiles... Ok
+fts5tok2.test-sharedcachesetting... Ok
+Time: fts5tok2.test 79 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5tokenizer.test-closeallfiles... Ok
+fts5tokenizer.test-sharedcachesetting... Ok
+Time: fts5tokenizer.test 73 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5umlaut.test-closeallfiles... Ok
+fts5umlaut.test-sharedcachesetting... Ok
+Time: fts5umlaut.test 88 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5unicode2.test-closeallfiles... Ok
+fts5unicode2.test-sharedcachesetting... Ok
+Time: fts5unicode2.test 82 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5unicode3.test-closeallfiles... Ok
+fts5unicode3.test-sharedcachesetting... Ok
+Time: fts5unicode3.test 78 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5unicode4.test-closeallfiles... Ok
+fts5unicode4.test-sharedcachesetting... Ok
+Time: fts5unicode4.test 86 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5unindexed.test-closeallfiles... Ok
+fts5unindexed.test-sharedcachesetting... Ok
+Time: fts5unindexed.test 89 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5update.test-closeallfiles... Ok
+fts5update.test-sharedcachesetting... Ok
+Time: fts5update.test 75 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5version.test-closeallfiles... Ok
+fts5version.test-sharedcachesetting... Ok
+Time: fts5version.test 81 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5vocab.test-closeallfiles... Ok
+fts5vocab.test-sharedcachesetting... Ok
+Time: fts5vocab.test 74 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+fts5vocab2.test-closeallfiles... Ok
+fts5vocab2.test-sharedcachesetting... Ok
+Time: fts5vocab2.test 69 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+lsm1_simple.test-closeallfiles... Ok
+lsm1_simple.test-sharedcachesetting... Ok
+Time: lsm1_simple.test 74 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree1.test-closeallfiles... Ok
+rtree1.test-sharedcachesetting... Ok
+Time: rtree1.test 71 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree2.test-closeallfiles... Ok
+rtree2.test-sharedcachesetting... Ok
+Time: rtree2.test 70 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree5.test-closeallfiles... Ok
+rtree5.test-sharedcachesetting... Ok
+Time: rtree5.test 72 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree6.test-closeallfiles... Ok
+rtree6.test-sharedcachesetting... Ok
+Time: rtree6.test 53 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree7.test-closeallfiles... Ok
+rtree7.test-sharedcachesetting... Ok
+Time: rtree7.test 65 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree8.test-closeallfiles... Ok
+rtree8.test-sharedcachesetting... Ok
+Time: rtree8.test 85 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtree9.test-closeallfiles... Ok
+rtree9.test-sharedcachesetting... Ok
+Time: rtree9.test 82 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeA.test-closeallfiles... Ok
+rtreeA.test-sharedcachesetting... Ok
+Time: rtreeA.test 77 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeB.test-closeallfiles... Ok
+rtreeB.test-sharedcachesetting... Ok
+Time: rtreeB.test 61 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeC.test-closeallfiles... Ok
+rtreeC.test-sharedcachesetting... Ok
+Time: rtreeC.test 65 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeD.test-closeallfiles... Ok
+rtreeD.test-sharedcachesetting... Ok
+Time: rtreeD.test 66 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeE.test-closeallfiles... Ok
+rtreeE.test-sharedcachesetting... Ok
+Time: rtreeE.test 66 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeF.test-closeallfiles... Ok
+rtreeF.test-sharedcachesetting... Ok
+Time: rtreeF.test 59 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeG.test-closeallfiles... Ok
+rtreeG.test-sharedcachesetting... Ok
+Time: rtreeG.test 67 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeH.test-closeallfiles... Ok
+rtreeH.test-sharedcachesetting... Ok
+Time: rtreeH.test 63 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeI.test-closeallfiles... Ok
+rtreeI.test-sharedcachesetting... Ok
+Time: rtreeI.test 61 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreecheck.test-closeallfiles... Ok
+rtreecheck.test-sharedcachesetting... Ok
+Time: rtreecheck.test 58 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreecirc.test-closeallfiles... Ok
+rtreecirc.test-sharedcachesetting... Ok
+Time: rtreecirc.test 59 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreeconnect.test-closeallfiles... Ok
+rtreeconnect.test-sharedcachesetting... Ok
+Time: rtreeconnect.test 49 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+rtreefuzz001.test-closeallfiles... Ok
+rtreefuzz001.test-sharedcachesetting... Ok
+Time: rtreefuzz001.test 73 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+tkt3363.test-closeallfiles... Ok
+tkt3363.test-sharedcachesetting... Ok
+Time: tkt3363.test 91 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+changesetfuzz1.test-closeallfiles... Ok
+changesetfuzz1.test-sharedcachesetting... Ok
+Time: changesetfuzz1.test 59 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+session1.test-closeallfiles... Ok
+session1.test-sharedcachesetting... Ok
+Time: session1.test 86 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+session2.test-closeallfiles... Ok
+session2.test-sharedcachesetting... Ok
+Time: session2.test 81 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
+session3.test-closeallfiles... Ok
+session3.test-sharedcachesetting... Ok
+Time: session3.test 1057 ms
+Memory used:          now         24  max     342832  max-size      65544
+Allocation count:     now          1  max        488
+Page-cache used:      now          0  max          0  max-size       1288
+Page-cache overflow:  now          0  max      17784
